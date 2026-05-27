@@ -46,7 +46,7 @@
 
 
 ### 2. 粘贴链接并触发解析
-打开从 `[4kvideodownloader.com](https://www.4kvideodownloader.com/)` 官网安装好的4K/8K YouTube视频下载软件，点击主界面左上角的**“粘贴链接”（Paste Link）**绿色加号按钮。软件会自动读取你剪贴板中的链接并启动深度解析YouTube视频链接。
+打开从 `https://www.4kvideodownloader.com/` 官网安装好的4K/8K YouTube视频下载软件，点击主界面左上角的**“粘贴链接”（Paste Link）**绿色加号按钮。软件会自动读取你剪贴板中的链接并启动深度解析YouTube视频链接。
 
 ### 3. 设置输出格式与参数
 YouTube视频解析完成后，系统会弹出一个配置窗口。在这里你可以根据需求进行个性化定制：
